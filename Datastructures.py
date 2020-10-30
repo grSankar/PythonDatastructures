@@ -1,5 +1,5 @@
 
-# ------------------Stack Data Structure in pyton--------------
+# ------------------Stack Data Structure in Python--------------
 
 # class Stack():
 #     def __init__(self):
